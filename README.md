@@ -1,7 +1,7 @@
 # Janhvi Foundation Website
 Prepared a website for Janhvi Foundation NGO in Pune, India
 
-Website: [janhvifoundation.com/]([url](https://www.janhvifoundation.com/)https://www.janhvifoundation.com/)
+Website: [janhvifoundation.com](https://www.janhvifoundation.com/)
 
 Tech stack: Reactjs, CSS
 Bootstrap Platform: TeleportHQ
