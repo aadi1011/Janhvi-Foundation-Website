@@ -65,7 +65,7 @@ This will generate optimized and minified files in the `build` directory.
 
 If you would like to contribute to the project, follow these steps:
 
-1. Fork the repository.
+1. Fork this repository.
 2. Create a new branch for your feature or bug fix.
 3. Make changes and test thoroughly.
 4. Commit your changes with descriptive commit messages.
