@@ -1,4 +1,4 @@
-# Janhvi Foundation Website
+<h1 align=center> Janhvi Foundation Website</h1>
 
 ![JanhviFoundationLogo](https://github.com/aadi1011/Janhvi-Foundation-Website/assets/62766172/2a9bc462-00a5-4711-851d-f0df1147e80b)
 
